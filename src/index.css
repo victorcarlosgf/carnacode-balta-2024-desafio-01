@@ -1,0 +1,24 @@
+* {
+	margin: 0;
+	padding: 0;
+	background-color: #646cff;
+}
+
+body {
+	margin: 5% 30%;
+}
+
+.container {
+	margin: 0 auto;
+	width: 350px;
+	height: 450px;
+	background-color: #ccc;
+}
+
+/* .flex {
+	display: flex;
+}
+
+.menu {
+	flex-wrap: wrap;
+} */
